@@ -1,4 +1,4 @@
-import Header from "./component/header.js";
+import Header from "./component/Header.js";
 import RouterView from "./component/RouterView.js"
 import { request } from "./api.js"
 
