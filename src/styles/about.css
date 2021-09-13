@@ -1,0 +1,52 @@
+.about{
+    padding-top: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.card_content > p{
+    line-height: 2pc;
+}
+.card_title > p{
+    font-size: 25px;
+    font-weight: bold;
+}
+.profile > p{
+    font-weight: bold;
+}
+.profile{
+    height: 160px;
+    display: flex;
+    flex-direction: column; /*수직 정렬*/
+    justify-content: space-around;
+}
+.intro{
+    width: 500px;
+    height: 850px;
+    display: flex;
+    flex-direction: column; /*수직 정렬*/
+    justify-content: space-around;
+}
+.core > p > img{
+    width: 200px;
+    height: 200px;
+}
+.core > p:hover{
+    opacity: 1;
+}
+.core > p{
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-weight: bold;
+    opacity: 0.5;
+}
+.core{
+    width: 600px;
+    height: 850px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

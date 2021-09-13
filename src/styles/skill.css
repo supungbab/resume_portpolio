@@ -1,0 +1,45 @@
+.skill-wrap{
+    width:100%;
+    display: flex;
+    justify-content: row;
+    margin-bottom: 30px;
+}
+.canvas > i{
+    font-size: 90px;
+}
+.canvas{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    color: #FEE692;
+}
+.skill_name{
+    text-align: center;
+    color: white;
+}
+.skill{
+    padding-top: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.skill-type{
+    color:white;
+    margin-bottom: 10px;
+}
+span.procent {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    font-size: 25px;
+    transform: translate(-50%, -50%);
+    color: #3949AB;
+}
+  
+.canvas-wrap {
+    position: relative;
+    display: flex;
+    flex-direction: column; /*수직 정렬*/
+    justify-content: center;
+    margin-right: 50px;
+}
