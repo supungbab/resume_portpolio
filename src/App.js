@@ -33,15 +33,6 @@ export default function App({$app}){
 
     const init = async () => {
         this.setState({...this.state})
-        //router
-        window.onpopstate = () => {
-            const data = request(window.location.pathname);
-            this.setState({
-                ...this.state,
-                route: window.location.pathname,
-                data:data
-            })
-        }
     }
 
     init();
