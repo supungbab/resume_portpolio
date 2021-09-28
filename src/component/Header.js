@@ -30,7 +30,6 @@ export default function Header({$app, initialState, onClick}){
         const $history = e.target.closest('.history');
         if($history){
             const pathName = $history.getAttribute("route")
-            window.history.pushState({}, pathName, window.location.origin + pathName);
             onClick($history.getAttribute("route"));
         }
     })
