@@ -56,31 +56,36 @@ const project={
             "name":"TodayMoon",
             "title":"오늘의 달 모양을 알려주는 정적 사이트 Frontend 개발",
             "info":"수시로 바뀌는 달 모양을 보다 직관적으로 보기 위해</br>CSS와 JS 처리를 통해 달 모양을 구현하였습니다.",
-            "image":"./assets/img/img1.png"
+            "image":"./assets/img/img1.png",
+            "link":"https://github.com/supungbab/TodayMoon"
         },
         {
             "name":"Newsmoa",
             "title":"어플 ‘오늘의 헤더라인’을 모티브로한 뉴스 사이트(SPA) 개발",
             "info":"뉴스를 좀 더 간결하고 빠르게 볼 수 있도록 만든 클론 사이트입니다.</br>졸업 작품 사이트 이며, 작품 총괄과 Frontend와 Backend를 맡아 진행하였습니다.",
-            "image":"./assets/img/img2.png"
+            "image":"./assets/img/img2.png",
+            "link":"https://github.com/supungbab/Newsmoa"
         },
         {
             "name":"Fossil",
             "title":"남성 쇼핑몰 HIVER의 클론 사이트 Frontend 개발",
             "info":"학기 초 과제로 만들게 된 클론 사이트 입니다.</br>HTML/CSS/JS 와 jQuery를 이용해 사이트를 구현하였습니다.",
-            "image":"./assets/img/img3.png"
+            "image":"./assets/img/img3.png",
+            "link":"https://github.com/supungbab/Fossil"
         },
         {
             "name":"PlanetSave",
             "title":"Python 모듈 Pygame을 이용한 행성 지키기 게임 개발",
             "info":"Math 함수를 이용해 행성의 모션들을 구현하였으며,</br>행성의 날라오는 운석들은 Random 함수를 이용해 무작위로 발생시켜 최대한 오래 살아 남는 게임입니다.",
-            "image":"./assets/img/img4.png"
+            "image":"./assets/img/img4.png",
+            "link":"https://github.com/supungbab/pygame"
         },
         {
             "name":"BackSpace",
             "title":"HTML/CSS/JS, jQuery 만으로 완성된 구 카카오 홈페이지 클론 사이트",
             "info":"처음으로 개발해 본 웹 클론 사이트 입니다.</br>구성 및 코드도 엉망이지만, 가장 의미 있는 웹 프로젝트 였습니다.</br>사이트 전체 컨셉은 우주로 잡았고 그에 맞춰 디자인을 구성하였습니다.",
-            "image":"./assets/img/img5.png"
+            "image":"./assets/img/img5.png",
+            "link":"https://github.com/supungbab/BackSpace"
         },
     ]
 }
